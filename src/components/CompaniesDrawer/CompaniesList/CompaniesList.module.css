@@ -1,0 +1,9 @@
+.Spinner {
+  margin-left: 50%;
+  margin-top: 50%;
+  position: absolute;
+}
+
+.Menu {
+  min-height: 100vh;
+}

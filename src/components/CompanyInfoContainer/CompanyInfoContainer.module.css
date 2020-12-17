@@ -1,0 +1,8 @@
+.Content {
+    margin: 24px 16px 0;
+    overflow: 'initial';
+}
+.noCompanySelected {
+    color: rgb(24, 144, 255);
+    font-weight: 500;
+}

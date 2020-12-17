@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.Layout {
+    height: 100%;
+    min-height: 100vh;
+}
+
+.Footer {
+    text-align: center;
+}
